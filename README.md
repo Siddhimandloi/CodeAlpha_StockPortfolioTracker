@@ -25,4 +25,4 @@ A simple Python-based stock portfolio tracker that:
 - MSFT
 
 ## Author
-Your Name
+siddhi mandloi
